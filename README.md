@@ -2,6 +2,8 @@
 
 **The demo before the first call.**
 
+<img src="docs/dossier-subject.png" alt="ColdOpen dossier for stripe.com — compiled in under 60 seconds" width="900">
+
 Solutions engineers lose hours per prospect building tailored demos and pre-call research — and most first calls still open with a generic product tour. ColdOpen compresses that prep into about a minute: paste a prospect's website, and it hands you everything an SE needs to walk in warm.
 
 **One URL in →**
@@ -10,6 +12,10 @@ Solutions engineers lose hours per prospect building tailored demos and pre-call
 2. **A tailored demo environment** — a fictional B2B SaaS ("Meridian") re-skinned live with the prospect's brand color, their vocabulary, and twelve months of plausible, industry-native sample data — plus a four-beat **talk track** telling the SE exactly what to say while screen-sharing. Rendered as "Exhibit A" in a browser frame.
 3. **A discovery brief** — a pre-call read on the account, three testable pain hypotheses, five discovery questions (with *why each one matters*), landmines to avoid, and a positioning angle against their status quo.
 4. **A value case** — three conservative ROI drivers with stated assumptions, a payback estimate, and an honest disclaimer that the numbers are directional.
+
+Exhibit A, generated from nothing but `stripe.com` — Stripe's brand color, Stripe's vocabulary, and a talk track for the screen-share:
+
+<img src="docs/exhibit-a.png" alt="Exhibit A — tailored demo environment with talk track, generated from stripe.com" width="900">
 
 ## Why this is interesting (the business case)
 
